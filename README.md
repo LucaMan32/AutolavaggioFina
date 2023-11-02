@@ -4,6 +4,6 @@ Realizzazione di un sito web per l'Autolavaggio Fina di Busto Garolfo ad opera d
 
 Realizzazione avvenuta combinando diversi linguaggi di mark-up come: HTML5, CSS e con l'inserimento di script in linguaggio JavaScript.
 
-Successivamente è stato acquisito il dominio www.autolavaggiofina.it e tramite un servizio di hosting dedicato è stato reso possibile il deploy del sito.
+Successivamente è stato acquisito il dominio www.autolavaggiofina.it e tramite un servizio di hosting dedicato è stato reso possibile il deploy online del sito.
 
 Manfrin Luca, Università degli Studi di Milano.
